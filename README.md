@@ -42,8 +42,6 @@ My development workflow centers around building evolutionary architectures that 
 
 ---
 
----
-
 ### 📦 Featured Open-Source Repositories
 
 #### 🚀 TTM | Enterprise Team Task Management Platform
@@ -67,8 +65,8 @@ An offline-first, flexible markdown-based documentation tool created out of nece
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://vercel.appOfc-Parviz&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://vercel.appOfc-Parviz&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px" />
+  <img src="https://vercel.app/Ofc-Parviz&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://vercel.app/Ofc-Parviz&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px" />
 </p>
 
 ---
