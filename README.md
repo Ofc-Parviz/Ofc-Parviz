@@ -4,7 +4,7 @@
   <a href="README.fa.md">🌐 مطالعه به زبان فارسی (Persian Version)</a>
 </p>
 
-### Senior .NET & Desktop Developer | Backend Architect
+### Senior .NET Developer | Backend & Desktop Applications
 
 I am a passionate software engineer with a strong track record of building enterprise backend systems and high-performance desktop applications since **2018**. I specialize in crafting clean, maintainable, and highly testable software ecosystems.
 
