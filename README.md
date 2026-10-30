@@ -6,7 +6,11 @@
 
 ### Senior .NET Developer | Backend & Desktop Applications
 
-I am a passionate software engineer with a strong track record of building enterprise backend systems and high-performance desktop applications since **2018**. I specialize in crafting clean, maintainable, and highly testable software ecosystems.
+I am a passionate .Net Developer with professional software development experience since **2018** on freelancing platform Parscoders.com ([Profile Link](https://parscoders.com/resume/136723)), having successfully delivered 44+ projects across backend systems, web applications, Windows desktop software, and automation tools.
+
+My experience spans the full development lifecycle — from understanding requirements and designing solutions to implementation and delivery. focusing on building clean, maintainable and highly testable software ecosystems with C#, .NET, and ASP.NET Core, while continuously improving my skills in software architecture, Domain-Driven Design, and Clean Architecture.
+
+I value practical engineering, thoughtful design decisions, and writing software that can evolve with real-world requirements.
 
 ---
 
@@ -45,11 +49,11 @@ My development workflow centers around building evolutionary architectures that 
 ### 📦 Featured Open-Source Repositories
 
 #### 🚀 TTM | Enterprise Team Task Management Platform
-A production-ready, full-stack **Progressive Web Application (PWA)** built using modern .NET practices and an evolutionary architecture.
+A **Full-Stack Web Application** built using modern .NET practices and an evolutionary architecture.
 * 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS via MediatR, and the Specification Pattern for dynamic, reusable query logic.
 * 🔐 **Core Features:** Complete authentication (Email/Password), dynamic workspace/team generation, and an invitation system to join peer networks.
 * 👥 **Role-Based Hierarchy:** Strict multi-tenant authorization engine implementing a 3-tier hierarchy: `Owner` ➡️ `Supervisor` ➡️ `Employee` for granular task delegation.
-* 🖥️ **Tech Stack:** .NET 8, ASP.NET Core REST API, Responsive Frontend (PWA Layout), EF Core, SQL Server/PostgreSQL.
+* 🖥️ **Tech Stack:** .NET 8, ASP.NET Core REST API, Responsive Frontend, EF Core, SQL Server/PostgreSQL.
 * 🔗 **[View Repository](https://github.com/Ofc-Parviz/TTM)**
 
 #### 🖥️ DocService | Advanced Developer Documentation Engine
