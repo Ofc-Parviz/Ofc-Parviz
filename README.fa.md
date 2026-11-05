@@ -38,9 +38,7 @@
 <p align="right">
   <img src="https://shields.io" alt="EF Core" />
   <img src="https://shields.io" alt="SQL Server" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="RabbitMQ" />
+  <img src="https://shields.io" alt="SQLite" />
 </p>
 
 ---
