@@ -21,7 +21,7 @@ My development workflow centers around building evolutionary architectures that 
 * **Domain-Driven Design (DDD):** Designing rich domain models, implementing Aggregate Roots, Value Objects, Domain Events, and preserving boundaries using Bounded Contexts.
 * **Clean Architecture:** Strict decoupling of core business logic from frameworks, databases, and UI layers to ensure maximum maintainability.
 * **CQRS & MediatR:** Architectural separation of mutation (Commands) and queries (Queries) combined with MediatR Pipeline Behaviors for cross-cutting concerns like validation and logging.
-* **Test-Driven Development (TDD):** Prioritizing code reliability by practicing TDD, creating robust Unit, Integration, and Architecture tests via xUnit, FluentAssertions, and Moq.
+* **Test-Driven Development (TDD):** Prioritizing code reliability by practicing TDD, creating robust Unit and Integration tests via xUnit, FluentAssertions, and Moq.
 
 ---
 
