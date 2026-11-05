@@ -39,9 +39,7 @@ My development workflow centers around building evolutionary architectures that 
   <!-- Databases, Architecture tools & DevOps -->
   <img src="https://shields.io" alt="EF Core" />
   <img src="https://shields.io" alt="SQL Server" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="RabbitMQ" />
+  <img src="https://shields.io" alt="SQLite" />
 </p>
 
 ---
@@ -53,7 +51,7 @@ A **Full-Stack Web Application** built using modern .NET practices and an evolut
 * 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS via MediatR, and the Specification Pattern for dynamic, reusable query logic.
 * 🔐 **Core Features:** Complete authentication (Email/Password), dynamic workspace/team generation, and an invitation system to join peer networks.
 * 👥 **Role-Based Hierarchy:** Strict multi-tenant authorization engine implementing a 3-tier hierarchy: `Owner` ➡️ `Supervisor` ➡️ `Employee` for granular task delegation.
-* 🖥️ **Tech Stack:** .NET 8, ASP.NET Core REST API, Responsive Frontend, EF Core, SQL Server/PostgreSQL.
+* 🖥️ **Tech Stack:** .NET 8, ASP.NET Core REST API, Responsive Frontend, EF Core, SQL Server.
 * 🔗 **[View Repository](https://github.com/Ofc-Parviz/TTM)**
 
 #### 🖥️ DocService | Advanced Developer Documentation Engine
@@ -78,7 +76,7 @@ An offline-first, flexible markdown-based documentation tool created out of nece
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/Ofc-Parviz" target="_blank">
+  <a href="https://linkedin.com/in/Ofc-Parviz" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:ofc.parviz@gmail.com">
