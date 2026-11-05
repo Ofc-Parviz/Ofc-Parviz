@@ -48,19 +48,23 @@ My development workflow centers around building evolutionary architectures that 
 
 #### 🚀 TTM | Enterprise Team Task Management Platform
 A **Full-Stack Web Application** built using modern .NET practices and an evolutionary architecture.
+
 * 🏛️ **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS via MediatR, and the Specification Pattern for dynamic, reusable query logic.
 * 🔐 **Core Features:** Complete authentication (Email/Password), dynamic workspace/team generation, and an invitation system to join peer networks.
 * 👥 **Role-Based Hierarchy:** Strict multi-tenant authorization engine implementing a 3-tier hierarchy: `Owner` ➡️ `Supervisor` ➡️ `Employee` for granular task delegation.
 * 🖥️ **Tech Stack:** .NET 8, ASP.NET Core REST API, Responsive Frontend, EF Core, SQL Server.
 * 🔗 **[View Repository](https://github.com/Ofc-Parviz/TTM)**
 
-#### 🖥️ DocService | Advanced Developer Documentation Engine
-An offline-first, flexible markdown-based documentation tool created out of necessity to document [TTM](https://github.com/Ofc-Parviz/TTM) project and streamline software architecture documentation.
-* 💡 **The Origin:** Developed to solve a real-world pain point—eliminating the friction of writing, nesting, and formatting complex technical specifications.
-* 📦 **Core Features:** Highly responsive UI for organizing architecture blueprints, multi-level nested documentation rendering, and custom multi-format export engines.
-* 🛠️ **Architecture:** Built with WinForms using highly decoupled multi-layered components, ensuring high rendering performance and fast file I/O operations.
-* 🔗 **[View Repository](https://github.com/Ofc-Parviz/DocService)**
 
+#### 🖥️ DocService | Structured Documentation Management Tool
+A lightweight Windows desktop application designed to simplify the creation, organization, and management of structured textual documentation.
+
+- 💡 **The Origin:** Created to solve a practical challenge in software development — making documentation easier to create, maintain, and reuse without unnecessary complexity.
+- 📚 **Document Management:** Organize documentation into structured documents and independent sections, with a clean and straightforward management interface.
+- 📦 **Structured JSON Export:** Export complete documents as portable JSON data, ready to be consumed by other applications, custom documentation interfaces, or AI-assisted content generation workflows.
+- 🔄 **Self-Documenting Application:** Its own user guide is created and maintained using DocService, with the exported JSON embedded and rendered directly within the application.
+- 🛠️ **Tech Stack:** C#, Windows Forms, .NET Framework 4.8.1, SQLite.
+- 🔗 **[View Repository](https://github.com/ofc-parviz/DocService)**
 
 ---
 
