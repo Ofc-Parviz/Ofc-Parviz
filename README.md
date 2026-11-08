@@ -76,6 +76,8 @@ A lightweight Windows desktop application designed to simplify the creation, org
   <img src="https://vercel.app/Ofc-Parviz&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px" />
 </p>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=ofc-parviz)
+
 ---
 
 ### 🤝 Connect with me
